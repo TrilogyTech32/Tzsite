@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tzsite/static/css/main.0e5f914c.css",
+    "main.js": "/Tzsite/static/js/main.fda3f717.js",
+    "index.html": "/Tzsite/index.html",
+    "main.0e5f914c.css.map": "/Tzsite/static/css/main.0e5f914c.css.map",
+    "main.fda3f717.js.map": "/Tzsite/static/js/main.fda3f717.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e5f914c.css",
+    "static/js/main.fda3f717.js"
+  ]
+}
